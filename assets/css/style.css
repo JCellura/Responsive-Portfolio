@@ -206,6 +206,9 @@ body {
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
+    border-style: solid;
+    border-color:#4aaaa5;
+    border-width: 2px;
   }
   
   /* contact page */
